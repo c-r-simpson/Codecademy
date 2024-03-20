@@ -1,3 +1,3 @@
 # Not cool enough for school
 ## But Codecademy will do
-Learnin so someday I can be a real boy
+Learning coding so I can give my cats the lavish lifestyle they deserve (and to hopefully make a game someday)
